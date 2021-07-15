@@ -469,7 +469,7 @@ Expectations and Discipline</h5>
 	“Disclosure”
 	in the W3C Patent Policy [[!PATENT-POLICY]].
 
-	The [=Director=] <em class="rfc2119">may</em> take disciplinary action,
+	The [=CEO=] <em class="rfc2119">may</em> take disciplinary action,
 	including suspending or removing for cause
 	a participant in any group (including the [=AB=] and [=TAG=])
 	if serious and/or repeated violations,
@@ -536,7 +536,7 @@ Individuals Representing a Member Organization</h5>
 
 	In exceptional circumstances
 	(e.g., situations that might jeopardize the progress of a group or create a <a href="#coi">conflict of interest</a>),
-	the <a href="#def-Director">Director</a> <em class="rfc2119">may</em> decline
+	the [=CEO=] <em class="rfc2119">may</em> decline
 	to allow an individual designated by an Advisory Committee representative to participate in a group.
 
 	A group charter <em class="rfc2119">may</em> limit
@@ -1260,7 +1260,7 @@ Elected Groups Vacated Seats</h5>
 			or
 
 		<li>
-			the Director dismisses the participant
+			the [=CEO=] dismisses the participant
 			for failing to meet the criteria in section <a href="#ParticipationCriteria"></a>,
 			or
 
@@ -1594,7 +1594,7 @@ Invited Expert in a Working Group</h5>
 			the group closes, or
 
 		<li>
-			the Chair or Director withdraws the invitation to participate, or
+			the Chair or [=CEO=] withdraws the invitation to participate, or
 
 		<li>
 			the individual <a href="#resignation">resigns</a>.
