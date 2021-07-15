@@ -481,6 +481,11 @@ Expectations and Discipline</h5>
 	occur.
 	Refer to the <a href="https://www.w3.org/Guide/process/banning.html">Guidelines to suspend or remove participants from groups</a>.
 
+	Issue(w3c/w3process#275): What about questions of disciplinary actions linked to the CEO themself,
+	or to Elected Positions (AB, TAG)?
+	Maybe the CEO should recuse themself for these,
+	and they should be adjudicated by the BoD once we have one.
+
 <h5 id="coi">
 Conflict of Interest Policy</h5>
 
